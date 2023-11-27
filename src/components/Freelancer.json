@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "img_name": "person (1).jpg",
+    "experience": 6,
+    "email": "person1@example.com",
+    "skills": [
+      "Video Editor",
+      "Mobile App Developer",
+      "Transcriptionist",
+      "Project Manager"
+    ],
+    "qualification": "CS","trend":"true","name": "Alisha Berry"
+  },
+  {
+    "id": 2,
+    "img_name": "person (2).jpg",
+    "experience": 7,
+    "email": "person2@example.com",
+    "skills": [
+      "Web Developer",
+      "Data Entry Specialist",
+      "Online Tutor",
+      "Game Developer"
+    ],
+    "qualification": "Management","trend":"true", "name": "Jack"
+  },
+  {
+    "id": 3,
+    "img_name": "person (3).jpg",
+    "experience": 5,
+    "email": "person3@example.com",
+    "skills": [
+      "Project Manager",
+      "Web Developer",
+      "Mobile App Developer",
+      "Illustrator"
+    ],
+    "qualification": "Film Production"
+    ,"trend":"true","name": "Thomas"
+  },
+  {
+    "id": 4,
+    "img_name": "person (4).jpg",
+    "experience": 9,
+    "email": "person4@example.com",
+    "skills": [
+      "Consultant",
+      "Voiceover Artist",
+      "Illustrator",
+      "Mobile App Developer"
+    ],
+    "qualification": "Film Production",
+    "name": "Emille Clarc"
+  },
+  {
+    "id": 5,
+    "img_name": "person (5).jpg",
+    "experience": 5,
+    "email": "person5@example.com",
+    "skills": [
+      "Game Developer",
+      "Graphic Designer",
+      "Illustrator",
+      "Photographer"
+    ],
+    "qualification": "Administrative",
+    "name": "Anrdia"
+  },
+  {
+    "id": 6,
+    "img_name": "person (6).jpg",
+    "experience": 9,
+    "email": "person6@example.com",
+    "skills": [
+      "Video Editor",
+      "Illustrator",
+      "Voiceover Artist",
+      "Photographer"
+    ],
+    "qualification": "Management",
+    "name": "Thara Begam"
+  },
+  {
+    "id": 7,
+    "img_name": "person (7).jpg",
+    "experience": 9,
+    "email": "person7@example.com",
+    "skills": [
+      "Consultant",
+      "Data Entry Specialist",
+      "Project Manager",
+      "Photographer"
+    ],
+    "qualification": "Digital Marketing",
+    "name": "Zenath"
+  },
+  {
+    "id": 8,
+    "img_name": "person (8).jpg",
+    "experience": 9,
+    "email": "person8@example.com",
+    "skills": [
+      "Virtual Assistant",
+      "Translator",
+      "Mobile App Developer",
+      "Data Entry Specialist"
+    ],
+    "qualification": "Film Production","trend":"true",
+    "name": "Zoya"
+  },
+  {
+    "id": 9,
+    "img_name": "person (9).jpg",
+    "experience": 7,
+    "email": "person9@example.com",
+    "skills": [
+      "E-commerce Specialist",
+      "Data Entry Specialist",
+      "Project Manager",
+      "Translator"
+    ],
+    "qualification": "Journalism",
+    "name": "Zendaiya"
+  },
+  {
+    "id": 10,
+    "img_name": "person (10).jpg",
+    "experience": 9,
+    "email": "person10@example.com",
+    "skills": [
+      "Mobile App Developer",
+      "Virtual Assistant",
+      "Data Entry Specialist",
+      "Illustrator"
+    ],
+    "qualification": "Game Development","trend":"true",
+    "name": "Wilson"
+  },
+  {
+    "id": 11,
+    "img_name": "person (11).jpg",
+    "experience": 8,
+    "email": "person11@example.com",
+    "skills": [
+      "Online Tutor",
+      "Transcriptionist",
+      "Game Developer",
+      "Photographer"
+    ],
+    "qualification": "Management",
+    "name": "Hendry"
+  },
+  {
+    "id": 12,
+    "img_name": "person (12).jpg",
+    "experience": 9,
+    "email": "person12@example.com",
+    "skills": [
+      "Illustrator",
+      "Video Editor",
+      "Data Entry Specialist",
+      "Voiceover Artist"
+    ],
+    "qualification": "Data Entry",
+    "name": "Mike"
+  },
+  {
+    "id": 13,
+    "img_name": "person (13).jpg",
+    "experience": 5,
+    "email": "person13@example.com",
+    "skills": [
+      "Writer",
+      "Voiceover Artist",
+      "E-commerce Specialist",
+      "Online Tutor"
+    ],
+    "qualification": "Film Production",
+    "name": "Dustin"
+  },
+  {
+    "id": 14,
+    "img_name": "person (14).jpg",
+    "experience": 9,
+    "email": "person14@example.com",
+    "skills": [
+      "Voiceover Artist",
+      "Social Media Manager",
+      "Writer",
+      "Online Tutor"
+    ],
+    "qualification": "CS","trend":"true",
+    "name": "Mark"
+  },
+  {
+    "id": 15,
+    "img_name": "person (15).jpg",
+    "experience": 6,
+    "email": "person15@example.com",
+    "skills": [
+      "Mobile App Developer",
+      "Project Manager",
+      "Social Media Manager",
+      "Photographer"
+    ],
+    "qualification": "Marketing",
+    "name": "Helen"
+  },
+  {
+    "id": 16,
+    "img_name": "person (16).jpg",
+    "experience": 6,
+    "email": "person16@example.com",
+    "skills": [
+      "Data Entry Specialist",
+      "Consultant",
+      "Transcriptionist",
+      "Translator"
+    ],
+    "qualification": "Administrative","trend":"true",
+    "name": "Nivi"
+  },
+  {
+    "id": 17,
+    "img_name": "person (17).jpg",
+    "experience": 6,
+    "email": "person17@example.com",
+    "skills": [
+      "Writer",
+      "Illustrator",
+      "E-commerce Specialist",
+      "Voiceover Artist"
+    ],
+    "qualification": "CS",
+    "name": "Rose"
+  },
+  {
+    "id": 18,
+    "img_name": "person (18).jpg",
+    "experience": 7,
+    "email": "person18@example.com",
+    "skills": [
+      "Transcriptionist",
+      "E-commerce Specialist",
+      "Voiceover Artist",
+      "Legal Consultant"
+    ],
+    "qualification": "Law","trend":"true",
+    "name": "Vijay anand"
+  },
+  {
+    "id": 19,
+    "img_name": "person (19).jpg",
+    "experience": 7,
+    "email": "person19@example.com",
+    "skills": [
+      "Online Tutor",
+      "Digital Marketer",
+      "Data Entry Specialist",
+      "Virtual Assistant"
+    ],
+    "qualification": "Voiceover",
+    "name": "Marques"
+  },
+  {
+    "id": 20,
+    "img_name": "person (20).jpg",
+    "experience": 9,
+    "email": "person20@example.com",
+    "skills": [
+      "Data Entry Specialist",
+      "Writer",
+      "Voiceover Artist",
+      "Consultant"
+    ],
+    "qualification": "CS","trend":"true",
+    "name": "Jade"
+  },
+  {
+    "id": 21,
+    "img_name": "person (21).jpg",
+    "experience": 7,
+    "email": "person21@example.com",
+    "skills": [
+      "Graphic Designer",
+      "Writer",
+      "E-commerce Specialist",
+      "Video Editor"
+    ],
+    "qualification": "Management",
+    "name": "Ana de armas"
+  },
+  {
+    "id": 22,
+    "img_name": "person (22).jpg",
+    "experience": 7,
+    "email": "person22@example.com",
+    "skills": [
+      "Voiceover Artist",
+      "Illustrator",
+      "Social Media Manager",
+      "Legal Consultant"
+    ],
+    "qualification": "Consulting",
+    "name": "Lana Rootes"
+  },
+  {
+    "id": 23,
+    "img_name": "person (23).jpg",
+    "experience": 8,
+    "email": "person23@example.com",
+    "skills": [
+      "Project Manager",
+      "Online Tutor",
+      "E-commerce Specialist",
+      "Web Developer"
+    ],
+    "qualification": "CS",
+    "name": "Elisa"
+  },
+  {
+    "id": 24,
+    "img_name": "person (24).jpg",
+    "experience": 8,
+    "email": "person24@example.com",
+    "skills": [
+      "Illustrator",
+      "Virtual Assistant",
+      "Data Entry Specialist",
+      "Social Media Manager"
+    ],
+    "qualification": "Photography","trend":"true",
+    "name": "Johnny cit"
+  },
+  {
+    "id": 25,
+    "img_name": "person (25).jpg",
+    "experience": 9,
+    "email": "person25@example.com",
+    "skills": [
+      "Writer",
+      "Data Entry Specialist",
+      "Transcriptionist",
+      "Online Tutor"
+    ],
+    "qualification": "Graphic Design",
+    "name": "Andrew"
+  },
+  {
+    "id": 26,
+    "img_name": "person (26).jpg",
+    "experience": 9,
+    "email": "person26@example.com",
+    "skills": [
+      "Social Media Manager",
+      "Web Developer",
+      "Data Entry Specialist",
+      "Virtual Assistant"
+    ],
+    "qualification": "Transcription",
+    "name": "Tony"
+  },
+  {
+    "id": 27,
+    "img_name": "person (27).jpg",
+    "experience": 5,
+    "email": "person27@example.com",
+    "skills": [
+      "Digital Marketer",
+      "Game Developer",
+      "Voiceover Artist",
+      "Illustrator"
+    ],
+    "qualification": "Digital Marketing",
+    "name": "Ruby"
+  },
+  {
+    "id": 28,
+    "img_name": "person (28).jpg",
+    "experience": 6,
+    "email": "person28@example.com",
+    "skills": [
+      "Online Tutor",
+      "Mobile App Developer",
+      "Game Developer",
+      "Legal Consultant"
+    ],
+    "qualification": "Translation",
+    "name": "RJ"
+  },
+  {
+    "id": 29,
+    "img_name": "person (29).jpg",
+    "experience": 6,
+    "email": "person29@example.com",
+    "skills": [
+      "Project Manager",
+      "Data Entry Specialist",
+      "Social Media Manager",
+      "Writer"
+    ],
+    "qualification": "Translation",
+    "name": "Cathe nevis"
+  },
+  {
+    "id": 30,
+    "img_name": "person (30).jpg",
+    "experience": 9,
+    "email": "person30@example.com",
+    "skills": [
+      "Photographer",
+      "Illustrator",
+      "Web Developer",
+      "Consultant"
+    ],
+    "qualification": "Administrative",
+    "name": "Nick Anto"
+  }
+]
